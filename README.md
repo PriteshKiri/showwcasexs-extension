@@ -50,15 +50,18 @@ Visit the chrome extension developer dashboard by clicking [here]()
 
 The dashboard looks like this.
 
-![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685128010/Screenshot_2023-05-27_at_12.36.44_AM_xoggvv.png)
+![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685130155/Screenshot_2023-05-27_at_1.12.30_AM_v2bfp7.png)
 
-**NOTE**: Turn on the developer mode at top right corner of the dashboard.
 
 #### Step - 3
+
+Turn on the developer mode at top right corner of the dashboard.
 
 Click on the **Load upacked** button on top left and upload the cloned file here.
 
 Once done, showwcasexs card will be shown in the dashboard.
+
+![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685130044/Screenshot_2023-05-27_at_1.05.07_AM_uuy1ii.png)
 
 #### Step - 4
 
