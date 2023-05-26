@@ -2,7 +2,7 @@
 # ShowwcaseXS
 
 <div align="center">
-    <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png" style="width:100%" >
+    <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685131287/1400x560-showwcasexs_1_kzncj7.png" style="width:100%" >
 </div>
 
 
