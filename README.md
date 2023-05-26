@@ -43,6 +43,12 @@ Follow this video demo tutorial to understand how to use ShowwcaseXS:
 
 Fork and clone the repository 
 
+Copy the following command to fork the repository
+
+```bash
+git clone https://github.com/PriteshKiri/showwcasexs-extension.git
+```
+
 
 #### Step - 2
 
