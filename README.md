@@ -10,6 +10,8 @@ Showwcase is a platform for developers to connect, share knowledge, and find new
 
 I have used Showwcase APIs to build this Chrome extension. ShowwcaseXS will help users to operate Showwcase on every website with an enhanced user experience.
 
+# Features
+
 The following are the **Key Highlights** of the application:
 
 ### 1. Discover Showwcase feeds
