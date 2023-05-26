@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "ShowwcaseXS",
+  "version": "1.0",
+  "description": "ShowwcaseXS: Use showwcase on every website! Experience enhanced user experience and features.",
+  "icons": {
+    "16": "images/sxs-16x16.png",
+    "32": "images/sxs-32x32.png",
+    "48": "images/sxs-64x64.png",
+    "128": "images/sxs-128x128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "permissions": ["storage", "clipboardWrite"]
+}
