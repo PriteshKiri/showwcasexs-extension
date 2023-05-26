@@ -57,7 +57,7 @@ The dashboard looks like this.
 
 Turn on the developer mode at top right corner of the dashboard.
 
-Click on the **Load upacked** button on top left and upload the cloned file here.
+Click on the **Load upacked** button on top left and upload the extension folder cloned file here.
 
 Once done, showwcasexs card will be shown in the dashboard.
 
