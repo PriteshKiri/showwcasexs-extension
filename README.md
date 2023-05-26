@@ -42,7 +42,7 @@ Follow this video demo tutorial to understand how to use ShowwcaseXS:
 
 
 </br></br>
-# How to install?
+# Installation
 
 #### Step - 1
 
