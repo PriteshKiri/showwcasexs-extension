@@ -33,7 +33,7 @@ Don't just write, now you can post threads with the help of the voice typing fea
 ### 3. Trending Shows on your Fingertips
 Read high-quality latest technical shows (blogs) of Showwcase and stay ahead of the world.
 </br>
-
+</br>
 Read more about the journey of development and features in this blog : [ShowwcaseXS: Seamless Showwcase experience on every website!](https://www.showwcase.com/show/35219/showwcasexs-seamless-showwcase-experience-on-every-website)
 
 </br></br>
