@@ -2,10 +2,10 @@
 # ShowwcaseXS
 
 <div align="center">
-    <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png">
+    <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png" style="width:100%" >
 </div>
 
-![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png)
+
 
 [**ShowwcaseXS**](https://showwcasexs.vercel.app/ ) is chrome extension which provides Seamless showwcase experience on every page
 
