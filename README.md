@@ -2,13 +2,13 @@
 # ShowwcaseXS
 
 
-</br></br>
+</br>
 
 <div align="center">
     <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685131287/1400x560-showwcasexs_1_kzncj7.png" style="width:100%" >
 </div>
 
-</br></br>
+</br>
 
 [**ShowwcaseXS**](https://showwcasexs.vercel.app/ ) is chrome extension which provides Seamless showwcase experience on every page
 
@@ -16,7 +16,7 @@ Showwcase is a platform for developers to connect, share knowledge, and find new
 
 
 I have used Showwcase APIs to build this Chrome extension. ShowwcaseXS will help users to operate Showwcase on every website with an enhanced user experience.
-
+</br></br>
 # Features
 
 The following are the **Key Highlights** of the application:
@@ -33,7 +33,7 @@ Read high-quality latest technical shows (blogs) of Showwcase and stay ahead of 
 
 Read more about the journey of development and features in this blog : [ShowwcaseXS: Seamless Showwcase experience on every website!](https://www.showwcase.com/show/35219/showwcasexs-seamless-showwcase-experience-on-every-website)
 
-
+</br></br>
 # 🔥 Demo 
 
 Follow this video demo tutorial to understand how to use ShowwcaseXS:
@@ -43,7 +43,7 @@ Follow this video demo tutorial to understand how to use ShowwcaseXS:
 
 
 
-
+</br></br>
 # How to install?
 
 #### Step - 1
@@ -90,7 +90,7 @@ Open the sidebar by clicking on the arrow icon and login by entering the API key
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685128483/Screenshot_2023-05-27_at_12.44.37_AM_bqgvkp.png)
 
-
+</br></br>
 
 That's it, now you can use your showwcase on this website.
 
