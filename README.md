@@ -59,7 +59,7 @@ git clone https://github.com/PriteshKiri/showwcasexs-extension.git
 
 #### Step - 2
 
-Visit the chrome extension developer dashboard by clicking [here]()
+Visit the chrome extension developer dashboard by clicking [here](chrome://extensions/){:target="_blank"}
 
 The dashboard looks like this.
 
