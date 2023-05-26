@@ -2,7 +2,7 @@
 # ShowwcaseXS
 
 <div align="center">
-    <img src="[https://picsum.photos/id/247/300/300](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png)">
+    <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png">
 </div>
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685127065/showwcasexs__psxbba.png)
