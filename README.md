@@ -59,6 +59,7 @@ git clone https://github.com/PriteshKiri/showwcasexs-extension.git
 ```
 
 </br>
+
 #### Step - 2
 
 Visit the chrome extension developer dashboard by clicking [here](chrome://extensions/){:target="_blank"}
@@ -68,6 +69,7 @@ The dashboard looks like this.
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685130155/Screenshot_2023-05-27_at_1.12.30_AM_v2bfp7.png)
 
 </br>
+
 #### Step - 3
 
 Turn on the developer mode at top right corner of the dashboard.
@@ -78,6 +80,7 @@ Once done, showwcasexs card will be shown in the dashboard.
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685130044/Screenshot_2023-05-27_at_1.05.07_AM_uuy1ii.png)
 </br>
+
 #### Step - 4
 
 Pin the extension and visit any website and refresh. It will open a small side nav bar on the browser.
@@ -86,6 +89,7 @@ Like this 👇
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685128339/Screenshot_2023-05-27_at_12.42.13_AM_zdbeul.png)
 </br>
+
 #### Step - 5
 
 Open the sidebar by clicking on the arrow icon and login by entering the API keys.
