@@ -36,7 +36,9 @@ Read high-quality latest technical shows (blogs) of Showwcase and stay ahead of 
 </br>
 Read more about the journey of development and features in this blog : [ShowwcaseXS: Seamless Showwcase experience on every website!](https://www.showwcase.com/show/35219/showwcasexs-seamless-showwcase-experience-on-every-website)
 
-</br></br>
+</br>
+</br>
+
 # 🔥 Demo 
 
 Follow this video demo tutorial to understand how to use ShowwcaseXS:
@@ -45,7 +47,9 @@ Follow this video demo tutorial to understand how to use ShowwcaseXS:
 [![showwcasexs tutorial](https://img.youtube.com/vi/qpBV-JB9WPg/0.jpg)](https://www.youtube.com/watch?v=qpBV-JB9WPg)
 
 
-</br></br>
+</br>
+</br>
+
 # Installation
 </br>
 
@@ -80,6 +84,7 @@ Click on the **Load upacked** button on top left and upload the **extension fold
 Once done, showwcasexs card will be shown in the dashboard.
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685130044/Screenshot_2023-05-27_at_1.05.07_AM_uuy1ii.png)
+
 </br>
 
 #### Step - 4
@@ -89,6 +94,7 @@ Pin the extension and visit any website and refresh. It will open a small side n
 Like this 👇 
 
 ![](https://res.cloudinary.com/ddlhk5yje/image/upload/v1685128339/Screenshot_2023-05-27_at_12.42.13_AM_zdbeul.png)
+
 </br>
 
 #### Step - 5
