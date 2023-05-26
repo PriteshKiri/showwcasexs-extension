@@ -10,7 +10,7 @@
 
 </br>
 
-[**ShowwcaseXS**](https://showwcasexs.vercel.app/ ) is chrome extension which provides Seamless showwcase experience on every page
+[**ShowwcaseXS**](https://showwcasexs.vercel.app/ ) is chrome extension which provides Seamless showwcase experience on every website.
 
 Showwcase is a platform for developers to connect, share knowledge, and find new opportunities. It is a social network built and optimized for developers. Developers can connect, share their knowledge and showcase their projects with like-minded individuals.
 
